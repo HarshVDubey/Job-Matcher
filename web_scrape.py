@@ -43,7 +43,7 @@ class JobScraper:
 if __name__ == '__main__':
     # Initialize scraper
     scraper = JobScraper(
-        api_key='YOUR_API_KEY', 
+        api_key='1ab642610bda0e09853c3bb83b052b4f539dafbbd9b7e36a191a41ba4c554936', 
         job_titles="Data Science|Data Engineer|Data Analyst", 
         google_domain="google.com", 
         pages_to_scrape=5
